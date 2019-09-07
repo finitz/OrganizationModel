@@ -1,11 +1,3 @@
-//
-//  main.swift
-//  Organization
-//
-//  Created by 17 on 9/4/19.
-//
-
-
 
 class Employee: CustomStringConvertible {
     var description: String {
